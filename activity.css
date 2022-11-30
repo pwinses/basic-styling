@@ -29,15 +29,15 @@ ul{
     padding: 30px;
 }
 
-a :link{
+a:link{
     color: #82b8de;
 }
 
-a :visited{
+a:visited{
     color: #2b99e6
 }
 
-a :hover{
+a:hover{
     text-decoration: none;
 }
 
