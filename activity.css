@@ -27,10 +27,9 @@ ul{
     background-color: #eeeeee;
     border: 5px solid purple;
     padding: 30px;
-    
 }
 
-a {
+a :link{
     color: #82b8de;
 }
 
